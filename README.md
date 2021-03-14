@@ -14,3 +14,5 @@ lib - This directory holds your application source code. Usually you can fild tw
 The former holds your business logic and business domain. You can understand it as the "Model" if the MVC. The latter is responsible to interacting with the outside world. It is usually found the View and the Controller of the MVC architecture.
 
 priv - a directory that keeps all assets that are necessary in production but are not directly related to your souce code.
+
+test - directory with all of the appliacation tests.
