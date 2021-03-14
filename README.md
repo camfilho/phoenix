@@ -16,3 +16,7 @@ The former holds your business logic and business domain. You can understand it 
 priv - a directory that keeps all assets that are necessary in production but are not directly related to your souce code.
 
 test - directory with all of the appliacation tests.
+
+
+## Plug
+Plug comes with the idea of unifing the concepte of a connetion that we operate on. It differs from other HTTP middlware layers such as Rack, where the request and response are separated in the middleware satck.
