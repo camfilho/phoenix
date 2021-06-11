@@ -53,6 +53,7 @@ See more about all the fields of the connection and other functionality associat
 
 ### Module Plugs
 
+
 Module plug is another approach to define a connection transformation in a module.
 The module only needs to implement two functions:
 
